@@ -1,0 +1,43 @@
+# Streamlit framework
+streamlit
+
+# Image processing
+pillow
+
+# API requests
+requests
+
+# Wikipedia and Wikidata parsing
+wikipedia
+wikidata
+
+# Translation support (Google Translate)
+googletrans==4.0.0-rc1
+
+# JSON formatting
+simplejson
+
+# Geolocation (if used by PlantLocationFinder)
+geopy
+
+# Optional: if you're using iNaturalist or parsing HTML
+beautifulsoup4
+
+# Optional: if you're handling image formats or array ops
+numpy
+
+# Optional: for custom date formatting in results
+python-dateutil
+
+transformers
+torch
+
+
+
+#indic.py
+streamlit>=1.33.0
+requests>=2.31.0
+transformers>=4.41.1
+torch>=2.2.2
+sentencepiece>=0.1.99
+
